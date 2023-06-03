@@ -2,21 +2,22 @@
 <br/>
 <p>The Todo App API allows users to manage tasks and perform user authentication using JSON Web Token (JWT). This documentation provides an overview of the available endpoints and their usage.</p>
 <br/>
-<h3>Base URL</h3><br/>
+<h2>Base URL</h2><br/>
 <a>https://github.com/Ritikthakur01/ToDo-RESTfull-API</a>
 
-<h3>Authentication</h3>
+<h2>Authentication</h2>
 <br/>
-Register a new user
-Endpoint: /auth/register
+<strong>Register a new user</strong>
+<strong>Endpoint:</strong>/auth/register
 
-Method: POST
+<strong>Method</strong>: POST
 
-Request body:
+<strong>Request body:</strong>
 
 username (string, required): The username of the user.
 password (string, required): The password of the user.
-Response:
+
+<strong>Response:</strong>
 
 message (string): A success message indicating the user has been registered.
 
