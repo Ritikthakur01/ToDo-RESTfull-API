@@ -8,6 +8,7 @@
 <h2>Authentication</h2>
 <br/>
 <strong>Register a new user</strong>
+<br/>
 <strong>Endpoint:</strong>/auth/register
 
 <strong>Method</strong>: POST
