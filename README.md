@@ -6,20 +6,8 @@
 <a>https://github.com/Ritikthakur01/ToDo-RESTfull-API</a>
 
 <h2>Authentication</h2>
-<br/>
-<strong>Register a new user</strong>
-<br/>
-<strong>Endpoint:</strong>/auth/register
-<br/>
-<strong>Method</strong>: POST
+  <h3>Register a new user</h3>
 
-<strong>Request body:</strong>
 
-username (string, required): The username of the user.
-password (string, required): The password of the user.
-
-<strong>Response:</strong>
-
-message (string): A success message indicating the user has been registered.
 
 
