@@ -9,9 +9,8 @@
 <br/>
 <strong>Register a new user</strong>
 <br/>
-<br/>
 <strong>Endpoint:</strong>/auth/register
-
+<br/>
 <strong>Method</strong>: POST
 
 <strong>Request body:</strong>
