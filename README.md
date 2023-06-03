@@ -16,9 +16,9 @@
    <br/>
    1. Clone the repository: `git clone https://github.com/Ritikthakur01/ToDo-RESTfull-API.git`
    <br/>
-   3. Navigate to the project directory: `cd todo-app-api`
+   2. Navigate to the project directory: `cd todo-app-api`
    <br/>
-   5. npm install
+   3. npm install
   
 
 <h2>Base URL</h2><br/>
