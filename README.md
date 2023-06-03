@@ -2,6 +2,23 @@
 <br/>
 <p>The Todo App API allows users to manage tasks and perform user authentication using JSON Web Token (JWT). This documentation provides an overview of the available endpoints and their usage.</p>
 <br/>
+
+<h2>Prerequisites</h2><br/>
+<p>Before running the Todo App API, make sure you have the following software installed:</p>
+  <br/>
+   1. Node.js (version 12 or higher)
+   2. MongoDB (running instance or connection details)
+
+<br/>
+
+<h2>Installation</h2><br/>
+<p>Follow these steps to set up the Todo App API:</p>
+   <br/>
+   1. Clone the repository: `git clone https://github.com/Ritikthakur01/ToDo-RESTfull-API.git`
+   2. Navigate to the project directory: `cd todo-app-api`
+   3. npm install
+  
+
 <h2>Base URL</h2><br/>
 <a>mongodb://127.0.0.1:27017/ToDo_API_db</a>
 
