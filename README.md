@@ -67,20 +67,21 @@
    
   
  <h3>Get a specific task</h3>
+ 
  1. Endpoint : `/tasks/:id`
  2. Method: `GET`
  3. URL parameter:
          <br/>
         `id` (string, required): The ID of the task to retrieve.
  4. Response:
- <br/>
-`id` (string): The ID of the task.
- <br/>
-`name` (string): The name of the task.
- <br/>
-`description` (string): The description of the task.
- <br/>
-`status` (string): The status of the task.
+      <br/>
+       `id` (string): The ID of the task.
+      <br/>
+       `name` (string): The name of the task.
+      <br/>
+       `description` (string): The description of the task.
+      <br/>
+       `status` (string): The status of the task.
 
 
   
