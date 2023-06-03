@@ -7,6 +7,7 @@
 
 <h2>Authentication</h2>
   <h3>Register a new user</h3>
+  * Endpoint: `/auth/register`
 
 
 
