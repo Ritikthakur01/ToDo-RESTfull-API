@@ -82,6 +82,43 @@
        `description` (string): The description of the task.
       <br/>
        `status` (string): The status of the task.
+       
+       
+ <h3>Update a task</h3>
+ 
+  1. Endpoint : `/tasks/:id`
+  2. Method: `PUT`
+  3. URL parameter:
+         <br/>
+        `id` (string, required): The ID of the task to update.
+  4. Request body : 
+          <br/>
+          `name` (string, required): The updated name of the task.
+          <br/>
+          `description` (string): The updated description of the task.
+          <br/>
+          `status` (string): The updated status of the task.
+  5. Response:
+      <br/>
+       `id` (string): The ID of the updated task.
+      <br/>
+       `name` (string): The updated name of the task.
+      <br/>
+       `description` (string): The updated description of the task.
+      <br/>
+       `status` (string): The updated status of the task.
+       
+       
+ <h3>Delete a task</h3>
+  
+  1. Endpoint : `/tasks/:id`
+  2. Method : `DELETE`
+  3. URL parameter :
+         <br/>
+        `id` (string, required): The ID of the task to delete.
+  4. Response :
+       <br/>
+      `message` (string) : A success message indicating that the task has been deleted.
 
 
   
