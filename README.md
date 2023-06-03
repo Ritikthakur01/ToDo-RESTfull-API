@@ -9,6 +9,11 @@
  <h3>Register a new user</h3>
   
   1. Endpoint : `/auth/register`
+  2. Method : `POST`
+  3. Request body : `username (string, required): The username of the user.
+password (string, required): The password of the user.`
+
+
 
 
 
