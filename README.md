@@ -9,6 +9,7 @@
 <br/>
 <strong>Register a new user</strong>
 <br/>
+<br/>
 <strong>Endpoint:</strong>/auth/register
 
 <strong>Method</strong>: POST
