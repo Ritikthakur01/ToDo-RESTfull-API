@@ -10,8 +10,9 @@
   
   1. Endpoint : `/auth/register`
   2. Method : `POST`
-  3. Request body : `username (string, required): The username of the user. ${<br/>}
-password (string, required): The password of the user.`
+  3. Request body : 
+          1. `username` (string, required) : The username of the user.
+          2. `password` (string, required) : The password of the user.
 
 
 
