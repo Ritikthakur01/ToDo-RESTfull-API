@@ -6,8 +6,9 @@
 <a>https://github.com/Ritikthakur01/ToDo-RESTfull-API</a>
 
 <h2>Authentication</h2>
-  <h3>Register a new user</h3>
-  * Endpoint: `/auth/register`
+ <h3>Register a new user</h3>
+  
+  1 Endpoint : `/auth/register`
 
 
 
